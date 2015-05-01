@@ -23,12 +23,20 @@
             android:id="@+id/container"
             android:layout_width="match_parent"
             android:clickable="true"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button"
+                android:layout_gravity="center" />
+        </FrameLayout>
 
         <!-- android:layout_marginTop="?android:attr/actionBarSize"-->
         <fragment
             android:id="@+id/fragment_drawer"
-            android:name="com.poliveira.apps.materialtests.NavigationDrawerFragment"
+            android:name="com.fatjoni.android.t25guide.NavigationDrawerFragment"
             android:layout_width="@dimen/navigation_drawer_width"
             android:layout_height="match_parent"
             android:layout_gravity="start"

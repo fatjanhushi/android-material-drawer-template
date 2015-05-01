@@ -1,9 +1,9 @@
-package com.poliveira.apps.materialtests;
+package com.fatjoni.android.t25guide;
 
 import android.graphics.drawable.Drawable;
 
 /**
- * Created by poliveira on 24/10/2014.
+ * Created by fatjoni on 24/10/2014.
  */
 public class NavigationItem {
     private String mText;

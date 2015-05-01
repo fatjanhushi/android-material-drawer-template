@@ -1,4 +1,4 @@
-package com.poliveira.apps.materialtests;
+package com.fatjoni.android.t25guide;
 
 import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;
@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by poliveira on 24/10/2014.
+ * Created by fatjoni on 24/10/2014.
  */
 public class NavigationDrawerAdapter extends RecyclerView.Adapter<NavigationDrawerAdapter.ViewHolder> {
 

@@ -1,4 +1,4 @@
-package com.poliveira.apps.materialtests;
+package com.fatjoni.android.t25guide;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -1,7 +1,7 @@
-package com.poliveira.apps.materialtests;
+package com.fatjoni.android.t25guide;
 
 /**
- * Created by poliveira on 27/10/2014.
+ * Created by fatjoni on 27/10/2014.
  */
 public interface NavigationDrawerCallbacks {
     void onNavigationDrawerItemSelected(int position);

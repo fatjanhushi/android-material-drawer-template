@@ -1,4 +1,4 @@
-package com.poliveira.apps.materialtests;
+package com.fatjoni.android.t25guide;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by poliveira on 24/10/2014.
+ * Created by fatjoni on 24/10/2014.
  */
 public class NavigationDrawerFragment extends Fragment implements NavigationDrawerCallbacks {
     private static final String PREF_USER_LEARNED_DRAWER = "navigation_drawer_learned";
