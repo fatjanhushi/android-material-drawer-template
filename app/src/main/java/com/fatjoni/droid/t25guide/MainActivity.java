@@ -1,4 +1,4 @@
-package com.fatjoni.android.t25guide;
+package com.fatjoni.droid.t25guide;
 
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
