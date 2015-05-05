@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Material Tests</string>
+    <string name="app_name">T25 Guide</string>
     <string name="drawer_open">Menu opened</string>
     <string name="drawer_close">Menu closed</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="workout_array">
+        <item>Cardio</item>
+        <item>Speed 1.0</item>
+        <item>Total Body Circuit</item>
+        <item>Ab Intervals</item>
+        <item>Cardio and Lower Focus</item>
+        <item>Cardio</item>
+        <item>Speed 1.0</item>
+        <item>Total Body Circuit</item>
+        <item>Ab Intervals</item>
+        <item>Cardio and Lower Focus</item>
+        <item>Cardio</item>
+        <item>Speed 1.0</item>
+        <item>Total Body Circuit</item>
+        <item>Ab Intervals</item>
+        <item>Cardio and Lower Focus</item>
+        <item>Cardio</item>
+        <item>Speed 1.0</item>
+        <item>Total Body Circuit</item>
+        <item>Ab Intervals</item>
+        <item>Cardio and Lower Focus</item>
+        <item>Cardio</item>
+        <item>Speed 1.0</item>
+        <item>Total Body Circuit</item>
+        <item>Ab Intervals</item>
+        <item>Cardio and Lower Focus</item>
+        <item>Cardio</item>
+        <item>Speed 1.0</item>
+        <item>Total Body Circuit</item>
+        <item>Ab Intervals</item>
+        <item>Cardio and Lower Focus</item>
+    </string-array>
 </resources>

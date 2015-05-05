@@ -1,26 +1,25 @@
 package com.fatjoni.droid.t25guide;
 
+import java.io.Serializable;
+
 /**
  * Created by fatjon on 15-05-04.
  */
-public class Workout {
+public class Workout implements Serializable {
 
     private String name;
-    private String description;
     private boolean isChecked;
 
     public Workout(){
 
     }
 
-    public Workout(String name, String description){
+    public Workout(String name){
         this.name = name;
-        this.description = description;
     }
 
-    public Workout(String name, String description, boolean isChecked){
+    public Workout(String name, boolean isChecked){
         this.name = name;
-        this.description = description;
         this.isChecked = isChecked;
     }
 
@@ -32,14 +31,6 @@ public class Workout {
         this.name = name;
     }
 
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
     public boolean isChecked() {
         return isChecked;
     }
@@ -47,4 +38,5 @@ public class Workout {
     public void setIsChecked(boolean isChecked) {
         this.isChecked = isChecked;
     }
+
 }

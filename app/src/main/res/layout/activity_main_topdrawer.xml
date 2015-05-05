@@ -56,7 +56,7 @@
                     android:layout_margin="5dp"
                     android:text="Show Selected"
                     android:background="#00796B"
-                    android:textColor="white"/>
+                    android:textColor="#ffffff"/>
 
             </LinearLayout>
 
